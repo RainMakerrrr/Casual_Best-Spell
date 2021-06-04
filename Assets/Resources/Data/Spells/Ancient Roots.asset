@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c28f59d3067f4f9495e03bdc648a4365, type: 3}
+  m_Name: Ancient Roots
+  m_EditorClassIdentifier: 
+  _name: Ancient Roots
+  _duplicatesCount: 1
+  _spellIcon: {fileID: 21300000, guid: f5b53dac9aa47e64f8b61b98b8458a4a, type: 3}
+  _spellRecipe:
+  - {fileID: 11400000, guid: 7417f6e4c7ce2c84b8efa7eb67087c09, type: 2}
+  - {fileID: 11400000, guid: 7417f6e4c7ce2c84b8efa7eb67087c09, type: 2}
+  CurrentUpgradeLevel: 0
+  CurrentTargetDuplicates: 3
+  CurrentUpgradeCost: 100
+  _damageValue: 6
+  _damageType: 3

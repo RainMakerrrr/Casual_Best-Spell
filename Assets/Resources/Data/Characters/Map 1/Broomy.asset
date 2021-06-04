@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e13d2fffc1744e8facc1c123c4fd88f2, type: 3}
+  m_Name: Broomy
+  m_EditorClassIdentifier: 
+  _name: Broomy
+  _quests:
+  - {fileID: 11400000, guid: 2ef8028fbf31fb24b86e906066f49a48, type: 2}
+  - {fileID: 11400000, guid: 45dd0433bec717540b5125d65031096c, type: 2}
+  _characterSprite: {fileID: 21300000, guid: 49ec82406ac667748a5ac7f31e40d6d9, type: 3}
+  _characterIcon: {fileID: 21300000, guid: 3454cf41ccb879b488c1d5d063b89d9d, type: 3}

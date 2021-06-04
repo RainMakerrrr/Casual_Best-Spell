@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff40a436bc68491d9e8c94e95a1768b5, type: 3}
+  m_Name: Healing
+  m_EditorClassIdentifier: 
+  _name: Healing
+  _duplicatesCount: 1
+  _spellIcon: {fileID: 21300000, guid: 0a294e66e1f3ebc43aaf7dea1ca3dc97, type: 3}
+  _spellRecipe:
+  - {fileID: 11400000, guid: 794a84d7efd7c4041963d8ea25c59d9d, type: 2}
+  - {fileID: 11400000, guid: c3b6200916b6e5a47a008aeb8124f26f, type: 2}
+  - {fileID: 11400000, guid: 7417f6e4c7ce2c84b8efa7eb67087c09, type: 2}
+  CurrentUpgradeLevel: 0
+  CurrentTargetDuplicates: 3
+  CurrentUpgradeCost: 100
+  _healingValue: 7

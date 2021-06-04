@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c28f59d3067f4f9495e03bdc648a4365, type: 3}
+  m_Name: Sudden Blow
+  m_EditorClassIdentifier: 
+  _name: Sudden Blow
+  _duplicatesCount: 1
+  _spellIcon: {fileID: 21300000, guid: 6f5caada600e5a94fa6338396736975f, type: 3}
+  _spellRecipe:
+  - {fileID: 11400000, guid: dec7cdc650c7f0240afaf6d8e5eba302, type: 2}
+  - {fileID: 11400000, guid: c3b6200916b6e5a47a008aeb8124f26f, type: 2}
+  CurrentUpgradeLevel: 0
+  CurrentTargetDuplicates: 3
+  CurrentUpgradeCost: 100
+  _damageValue: 7
+  _damageType: 1
