@@ -7,9 +7,6 @@ namespace SpellsFactory
 {
     public static class SpellEffectFactory
     {
-        //ПЕРЕДЕЛАТЬ ФАБРИКУ ПОД БАФФЫ/ДЕБАФФЫ
-        //ЛОГИКУ РАЗДЛЕЕНИЯ ТИПОВ СПЕЛЛОВ ВЫНЕСТИ В SCRIPTABLE OBJECT
-        
         private static Dictionary<string, Type> _spellEffects;
         private static bool IsInitialized => _spellEffects != null;
 
